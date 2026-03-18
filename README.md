@@ -66,14 +66,8 @@ This project was developed for **SkyHack 2.0**, a national-level hackathon organ
 
 ---
 
-## 🎥 Demo
 
-<div align="center">
-  <img src="demo_screenshot.png" alt="VisionGuide Demo" width="600">
-  
-  **[Watch Demo Video](https://drive.google.com/your-demo-link-here)**
-  
-  *⬆️ Replace with your actual demo link*
-</div>
 
-### Sample Output
+
+
+
