@@ -66,6 +66,25 @@ This project was developed for **SkyHack 2.0**, a national-level hackathon organ
 
 ---
 
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **Python 3.9+** | Core programming language |
+| **YOLOv8 (Ultralytics)** | Object detection model |
+| **OpenCV** | Camera capture & image processing |
+| **pyttsx3** | Text-to-speech voice alerts |
+| **PyTorch** | Deep learning framework backend |
+| **NumPy** | Numerical operations |
+
+---
+
+
+
+
+
 
 
 
